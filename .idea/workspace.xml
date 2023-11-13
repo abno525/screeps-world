@@ -4,7 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1df3e654-6b0d-4c67-b40c-f14f212d8b43" name="Changes" comment="tutorial" />
+    <list default="true" id="1df3e654-6b0d-4c67-b40c-f14f212d8b43" name="Changes" comment="tutorial">
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Config/SublimeCodeIntel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/ConstructionSite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Creep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Deposit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Flag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Global/Constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Memory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Mineral.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Nuke.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/OwnedStructure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/PathFinder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/PowerCreep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/RawMemory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Resource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Room.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/RoomObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/RoomPosition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/RoomVisual.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Ruin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureExtension.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureExtractor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureFactory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureInvaderCore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureKeeperLair.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureLab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureLink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureNuker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureObserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructurePortal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructurePowerBank.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructurePowerSpawn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureRampart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureRoad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureSpawn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureStorage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureTerminal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureTower.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Structures/StructureWall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/TODO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/Tombstone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScreepsAutocomplete-master/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +90,20 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "abno525"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="86fe7405-fa7d-4055-9055-0a0e4afdfdaa" />
+        <option name="url" value="https://github.com/abno525/screeps" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -45,13 +111,16 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2Y7OxbNIejNuNeuda5UHBSXI1Un" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -64,7 +133,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "application.passwordSafe",
+    "settings.editor.selected.configurable": "JavaScript.Libraries",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,7 +146,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699873399095</updated>
       <workItem from="1699873400081" duration="14125000" />
-      <workItem from="1699890735731" duration="615000" />
+      <workItem from="1699890735731" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="tutorial">
       <option name="closed" value="true" />
@@ -87,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699889641531</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tutorial">
+      <option name="closed" value="true" />
+      <created>1699891664032</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699891664032</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +194,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="tutorial" />
     <option name="LAST_COMMIT_MESSAGE" value="tutorial" />
   </component>
